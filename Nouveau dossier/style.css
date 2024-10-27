@@ -1,0 +1,104 @@
+body
+{
+	background-color: rgba(254, 233, 211); 
+}
+h1
+{
+	font-size: 80px;
+	text-align: center;
+	color: red;s
+	border: 3px white ridge;
+	text-shadow: 3px 3px 8px black;
+}
+
+}
+.unique
+{
+	border: 5px blue solid
+	border-radius:30px/30px;
+	padding: 13px;
+	font-size:50px;
+}
+
+input
+{
+	border: 5px solid #3498db;
+	border-radius: 50px / 50px;
+	padding:16px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: auto;
+	width: 950px;
+	height: 60px;
+	font-size: 36px;
+	font-style: auto;
+	flex-wrap: wrap;
+	display: flex
+	flex-wrap: wrap;
+	background-color: rgb(254, 233, 254);
+}
+p{
+	text-indent: justify;
+	float:left;
+}
+nav{
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 15px;
+	display: flex;
+	justify-content: space-around;
+	font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
